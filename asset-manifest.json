@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mbajdistancenapp/static/css/main.31dc35f0.chunk.css",
+    "main.js": "/mbajdistancenapp/static/js/main.6839c3d9.chunk.js",
+    "main.js.map": "/mbajdistancenapp/static/js/main.6839c3d9.chunk.js.map",
+    "runtime-main.js": "/mbajdistancenapp/static/js/runtime-main.ec83f529.js",
+    "runtime-main.js.map": "/mbajdistancenapp/static/js/runtime-main.ec83f529.js.map",
+    "static/js/2.113b49cc.chunk.js": "/mbajdistancenapp/static/js/2.113b49cc.chunk.js",
+    "static/js/2.113b49cc.chunk.js.map": "/mbajdistancenapp/static/js/2.113b49cc.chunk.js.map",
+    "index.html": "/mbajdistancenapp/index.html",
+    "precache-manifest.9f42665d78fe25eea4ec54ee60f9988d.js": "/mbajdistancenapp/precache-manifest.9f42665d78fe25eea4ec54ee60f9988d.js",
+    "service-worker.js": "/mbajdistancenapp/service-worker.js",
+    "static/css/main.31dc35f0.chunk.css.map": "/mbajdistancenapp/static/css/main.31dc35f0.chunk.css.map",
+    "static/js/2.113b49cc.chunk.js.LICENSE.txt": "/mbajdistancenapp/static/js/2.113b49cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec83f529.js",
+    "static/js/2.113b49cc.chunk.js",
+    "static/css/main.31dc35f0.chunk.css",
+    "static/js/main.6839c3d9.chunk.js"
+  ]
+}
